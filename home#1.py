@@ -1,6 +1,6 @@
 import openai as oai
 
-oai.api_key = "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"
+oai.api_key = ""
 
 res = oai.Image.create(
     prompt="tiny robot",
